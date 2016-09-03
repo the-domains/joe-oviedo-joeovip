@@ -1,27 +1,30 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:51.232Z'
-dateModified: '2016-03-05T22:48:16.542Z'
-title: La marca del futuro está conectada
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T23:17:31.593Z'
 sourcePath: _posts/2016-03-05-la-marca-del-futuro-esta-conectada.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:17:30.995Z'
+title: La marca del futuro está conectada
+publisher: {}
+description: >-
+  Sí, a internet y todo lo que ello significa, con sus múltiples canales y su
+  constante entrada y salida de información. La marca del futuro está conectada
+  porque se deja fluir en lo digital, no lo resiste, lo ha aceptado, y si es una
+  marca de edad, ha sido capaz de atraer el talento que le ayude a entender para
+  aprovechar esta ola de cambio.
+inLanguage: null
+inNav: false
+starred: false
 url: la-marca-del-futuro-esta-conectada/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4229bb26-9c05-43fa-be01-f465ead02ecf.jpg)
+# La marca del futuro está conectada
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c3a386babb696daa139faedeabaa2941e45cd97.jpg)
 
 Sí, a internet y todo lo que ello significa, con sus múltiples canales y su constante entrada y salida de información. La marca del futuro está conectada porque se deja fluir en lo digital, no lo resiste, lo ha aceptado, y si es una marca de edad, ha sido capaz de atraer el talento que le ayude a entender para aprovechar esta ola de cambio.
 
