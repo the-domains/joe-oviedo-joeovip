@@ -1,27 +1,31 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:47.045Z'
-dateModified: '2016-03-05T22:32:03.588Z'
-title: La marca del futuro es paciente
-author: []
+datePublished: '2016-08-31T23:17:49.613Z'
 sourcePath: _posts/2016-03-05-la-marca-del-futuro-es-paciente.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:17:48.835Z'
+title: La marca del futuro es paciente
+publisher: {}
+description: >-
+  Es paciente en definir su propuesta de valor, para encontrar el espacio en el
+  mercado al que se va a dirigir, disfrutando el accionar diario para sembrar su
+  presencia buscando destacar en los canales y lugares donde se encuentran sus
+  clientes. Es paciente en dar formar a las interacciones que deleitarán a sus
+  clientes, dedicando máximo detalle en cada punto de contacto para rebasar
+  expectativas.
+inLanguage: null
+inNav: false
+starred: false
 url: la-marca-del-futuro-es-paciente/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5ee31a7-3d54-4ea7-9d8c-fa50a8e4532e.jpg)
+# La marca del futuro es paciente
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/348169652dc2b80789577e5b8b10877e357313be.jpg)
 
 Es paciente en definir su propuesta de valor, para encontrar el espacio en el mercado al que se va a dirigir, disfrutando el accionar diario para sembrar su presencia buscando destacar en los canales y lugares donde se encuentran sus clientes. Es paciente en dar formar a las interacciones que deleitarán a sus clientes, dedicando máximo detalle en cada punto de contacto para rebasar expectativas.
 
