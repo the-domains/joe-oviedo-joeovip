@@ -1,27 +1,31 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:44.978Z'
-dateModified: '2016-03-05T22:27:33.316Z'
-title: '¡Qué bonito logo! Gracias, es todo lo que tengo'
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T23:18:32.882Z'
 sourcePath: _posts/2016-03-05-que-bonito-logo-gracias-es-todo-lo-que-tengo.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:18:32.384Z'
+title: Es más que un cambio de imagen
+publisher: {}
+description: >-
+  Un programa de identidad corporativa que resulta en la creación de una marca
+  que refleja el propósito único y diferenciador de tu empresa, impactará
+  profundamente todos los aspectos de tu organización. El minimizar este proceso
+  para llamarlo un cambio de imagen es como decir; que quieres renovar toda tu
+  casa pero a final de cuentas solamente te interesa como se ve el portón de tu
+  cochera.
+inLanguage: null
+inNav: false
+starred: false
 url: que-bonito-logo-gracias-es-todo-lo-que-tengo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f7a8a5f-43de-48ef-afd1-0c0d2151b6a0.jpg)
+# Es más que un cambio de imagen
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15a85694b14862cd28b4d7ba9eb08bc3a6b1789b.jpg)
 
 Un programa de identidad corporativa que resulta en la creación de una marca que refleja el propósito único y diferenciador de tu empresa, impactará profundamente todos los aspectos de tu organización. El minimizar este proceso para llamarlo un cambio de imagen es como decir; que quieres renovar toda tu casa pero a final de cuentas solamente te interesa como se ve el portón de tu cochera.
 
