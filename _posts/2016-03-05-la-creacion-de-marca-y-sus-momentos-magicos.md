@@ -1,27 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:42.786Z'
-dateModified: '2016-03-05T22:21:19.828Z'
-title: La creación de marca y sus momentos mágicos
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T23:19:20.968Z'
 sourcePath: _posts/2016-03-05-la-creacion-de-marca-y-sus-momentos-magicos.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:19:20.476Z'
+title: ''
+publisher: {}
+description: 'Un momento mágico: descubrir una nueva empresa'
+inLanguage: null
+inNav: false
+starred: false
 url: la-creacion-de-marca-y-sus-momentos-magicos/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e615c1af-8be8-4f7e-8a04-4f46d5e4a0c4.jpg)
+Un momento mágico: descubrir una nueva empresa
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/838de1683caa556dd5c27b03fabb77d17b5a2aab.jpg)
 
 Cada vez que tenemos oportunidad de estar con un cliente para platicar de su empresa, sus posibilidades en el mercado y presentar los caminos de estrategia de marca que puede tomar de acuerdo a sus objetivos, es sin duda, uno de los momentos más gratificantes que semana a semana tengo el privilegio de presenciar como parte de Ideograma.
 
