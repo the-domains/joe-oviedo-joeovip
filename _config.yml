@@ -1,16 +1,16 @@
-typography_spectrum: 0.4146419600583613
+layout_spectrum: 0.11533544259145856
+typography_spectrum: 0.3693958460353315
 color:
-  brandStrength: 0.763192483689636
-  lightness: 0.3142562780994922
-  saturation: 0.22330600768327713
-  rhythmicContrast: 0.13351777102798223
+  brandStrength: 0.03906210558488965
+  lightness: 0.12339508882723749
+  saturation: 0.5984519021585584
+  rhythmicContrast: 0.08216580445878208
   brandColors:
-    - '#025A50'
-    - '#012229'
-    - '#419FDD'
-    - '#8FA8A4'
-    - '#F1F1F1'
-layout_spectrum: 0.13458161638118327
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 author:
   name: Joe Oviedo
   email: joeovip@gmail.com
