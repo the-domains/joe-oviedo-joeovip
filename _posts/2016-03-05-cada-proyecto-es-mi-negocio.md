@@ -1,27 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:48.183Z'
-dateModified: '2016-03-05T22:31:40.222Z'
-title: Cada proyecto es mi negocio
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T23:13:37.759Z'
 sourcePath: _posts/2016-03-05-cada-proyecto-es-mi-negocio.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:13:37.314Z'
+title: Cada proyecto es mi negocio
+publisher: {}
+description: >-
+  Trabajar con un cliente en una relación con un inicio y final es normal, sin
+  embargo, en las reuniones en las que tengo el privilegio de estar semana a
+  semana, me doy cuenta que cada proyecto es más que una transacción, cada
+  proyecto es mi negocio.
+inLanguage: null
+inNav: false
+starred: false
 url: cada-proyecto-es-mi-negocio/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7885de5e-0aeb-403c-ae6b-25cec6992d58.jpg)
+# Cada proyecto es mi negocio
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a457950538cbf41b0e660b7afaa838a104d1bd7b.jpg)
 
 Trabajar con un cliente en una relación con un inicio y final es normal, sin embargo, en las reuniones en las que tengo el privilegio de estar semana a semana, me doy cuenta que cada proyecto es más que una transacción, cada proyecto es mi negocio.
 
