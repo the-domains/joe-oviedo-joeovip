@@ -1,27 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:43.788Z'
-dateModified: '2016-03-05T22:23:15.340Z'
-title: Un embajador para una carrera que se gana con el tiempo
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T23:18:58.174Z'
 sourcePath: _posts/2016-03-05-un-embajador-para-una-carrera-que-se-gana-con-el-tiempo.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:18:57.793Z'
+title: ''
+publisher: {}
+description: Es un trabajo diario el de la construcción de marca
+inLanguage: null
+inNav: false
+starred: false
 url: un-embajador-para-una-carrera-que-se-gana-con-el-tiempo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ac9391d-1dca-45b9-a376-d9139db34b82.jpg)
+Es un trabajo diario el de la construcción de marca
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/84649633de6279555a0efdfcc82b3ebc6d637917.jpg)
 
 La construcción de una marca exitosa se construye día con día, más allá de un manual de identidad y los archivos finales para imprimir tarjetas y construir una página web. Es necesario tener la convicción de que lo que se adquirió para el negocio es una educación de por vida, un aprendizaje totalmente diferente de como se opera y se construye a lo largo del tiempo una organización.
 
