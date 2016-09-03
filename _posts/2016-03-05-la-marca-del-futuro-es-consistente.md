@@ -1,27 +1,30 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:49.262Z'
-dateModified: '2016-03-05T22:40:20.501Z'
-title: La marca del futuro es consistente
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T23:14:55.483Z'
 sourcePath: _posts/2016-03-05-la-marca-del-futuro-es-consistente.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:14:54.808Z'
+title: La marca del futuro es consistente
+publisher: {}
+description: >-
+  Es consistente porque es percibida como estable y confiable. Es la
+  organización que parte de valores fundacionales bien definidos, que sabe lo
+  que es y hacia dónde va, que conoce muy bien su razón de existir. Es justa esa
+  razón la que guía sus operaciones, permitiendo a la empresa responder a los
+  cambios del tiempo, pero manteniéndose fiel a su carácter.
+inLanguage: null
+inNav: false
+starred: false
 url: la-marca-del-futuro-es-consistente/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8c7128a-cb8c-49ab-8613-fdda71ad689d.jpg)
+# La marca del futuro es consistente
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b9d668093c465f599a7d3041c2a11174c5b9760.jpg)
 
 Es consistente porque es percibida como estable y confiable. Es la organización que parte de valores fundacionales bien definidos, que sabe lo que es y hacia dónde va, que conoce muy bien su razón de existir. Es justa esa razón la que guía sus operaciones, permitiendo a la empresa responder a los cambios del tiempo, pero manteniéndose fiel a su carácter.
 
