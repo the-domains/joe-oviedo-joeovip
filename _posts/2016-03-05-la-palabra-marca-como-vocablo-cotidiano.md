@@ -1,26 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:41.354Z'
-dateModified: '2016-03-05T22:23:26.704Z'
-title: La palabra 'marca' como vocablo cotidiano
-author: []
+datePublished: '2016-08-31T23:19:43.693Z'
 sourcePath: _posts/2016-03-05-la-palabra-marca-como-vocablo-cotidiano.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-31T23:19:42.697Z'
+title: ''
+publisher: {}
+description: 'La palabra: marca'
+inLanguage: null
+inNav: false
+starred: false
 url: la-palabra-marca-como-vocablo-cotidiano/index.html
 _type: Article
 
 ---
+La palabra: marca
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0145a897512ca179a874197d271b1b08ee0ce856.png)
 
 Me ha sorprendido recientemente encontrar la palabra 'marca' en más lugares de lo que hubiera imaginado, y me sorprende más con la naturalidad con que las personas se expresan o usan el concepto para cualquier tipo de tema.
