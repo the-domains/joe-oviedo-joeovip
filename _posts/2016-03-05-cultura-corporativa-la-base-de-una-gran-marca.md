@@ -1,27 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-08-31T22:48:51.656Z'
-dateModified: '2016-03-05T22:53:28.138Z'
-title: 'Cultura corporativa, la base de una gran marca'
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T23:16:34.434Z'
 sourcePath: _posts/2016-03-05-cultura-corporativa-la-base-de-una-gran-marca.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:16:33.950Z'
+title: La marca fundamento de la cultura organizacional
+publisher: {}
+description: >-
+  Conforme los tiempos avanzan, la cultura de una organización se está
+  convirtiendo rápidamente en uno de los activos más importantes para lograr
+  resultados y en uno de los vehículos más eficientes para construir y
+  fortalecer una marca.
+inLanguage: null
+inNav: false
+starred: false
 url: cultura-corporativa-la-base-de-una-gran-marca/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0c55db2-7919-4f41-bbcb-9b441a6d5b2c.png)
+## La marca fundamento de la cultura organizacional
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/53c1a1856797d2d4c6a55fe70b9b40465155c119.png)
 
 Conforme los tiempos avanzan, la cultura de una organización se está convirtiendo rápidamente en uno de los activos más importantes para lograr resultados y en uno de los vehículos más eficientes para construir y fortalecer una marca.
 
